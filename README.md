@@ -26,15 +26,16 @@ Currently diving deep into **Python** development with an emphasis on backend au
 🔹 **Confident with:**  
 - `Python` — my primary language  
 - `aiogram` — for building Telegram bots  
-
-🔹 **Currently learning:**  
 - `SQLAlchemy` — for working with databases in Python  
 - `Selenium` — for browser automation and data scraping  
-- `asyncio` — understanding asynchronous programming in Python  
+- `asyncio` — understanding asynchronous programming in Python
 
+🔹 **Currently learning:**  
+- `Rust` — exploring systems-level programming
+  
 🔹 **Next on the roadmap:**  
-- `Django` — to build full-featured backend web applications  
-- `Go`, `C++`, `Rust` — exploring systems-level programming in the future  
+- `C++` - I know that in the future in college we will learn this language
+- `Java` - I know that in the future in college we will learn this language
 
 🔹 **Everyday tools:**  
 - `Arch Linux` as my main development OS  
