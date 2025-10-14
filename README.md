@@ -2,7 +2,7 @@
 <h3 align="center">aka iShawyha | Programming enthusiast & future developer from Ukraine 🇺🇦</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ffcc&center=true&vCenter=true&lines=Python+Dev+in+Progress;Building+Telegram+Bots;Exploring+Linux+and+Automation;Loves+Folk+Dance+%F0%9F%8E%89" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ffcc&center=true&vCenter=true&lines=Dev+in+Progress;Building+Telegram+Bots;Exploring+Linux+and+Automation;Loves+Folk+Dance+%F0%9F%8E%89" />
 </p>
 
 ---
