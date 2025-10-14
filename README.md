@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Oleksii Odarchuk</h1>
-<h3 align="center">aka iShawyha | Python learner & bot developer from Ukraine 🇺🇦</h3>
+<h3 align="center">aka iShawyha | Programing learner & future developer from Ukraine 🇺🇦</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00ffcc&center=true&vCenter=true&lines=Python+Dev+in+Progress;Building+Telegram+Bots;Exploring+Linux+and+Automation;Loves+Folk+Dance+%F0%9F%8E%89" />
@@ -10,7 +10,6 @@
 ### 👨‍💻 About Me
 
 - 🧑‍🎓 Student at [IT College of Lviv Polytechnic](https://itcollege.lviv.ua/)
-- 🐍 Learning Python and bot development
 - 🤖 Creator of [AbitAssistant_Bot](https://github.com/OlexiyOdarchuk/Competition_Check_Telegram_bot)
 - 🐧 Daily Linux user (`I use Arch btw`)
 - 💃 Ukrainian folk dancer
@@ -21,7 +20,7 @@
 ### 🧠 What I'm Learning and Using
 
 🔹 **Main Focus:**  
-Currently diving deep into **Python** development with an emphasis on backend automation and bot building.
+Right now, I'm focusing on **C++** for college, but in the future, I'll switch to another language.
 
 🔹 **Confident with:**  
 - `Python` — my primary language  
@@ -31,15 +30,16 @@ Currently diving deep into **Python** development with an emphasis on backend au
 - `asyncio` — understanding asynchronous programming in Python
 
 🔹 **Currently learning:**  
-- `Rust` — exploring systems-level programming
+- `C++ (But only the level required for college)` - We learn this in college now
   
 🔹 **Next on the roadmap:**  
-- `C++` - I know that in the future in college we will learn this language
-- `Java` - I know that in the future in college we will learn this language
+- `Java (But only the level required for college)` - I know that in the future in college we will learn this language
+- `Rust` - I want to rewrite my bot to Rust because it's currently putting a lot of strain on the hardware
 
 🔹 **Everyday tools:**  
 - `Arch Linux` as my main development OS  
-- `Git` and GitHub for version control  
+- `VSCodium` Code editor
+- `Zed` Code editor
 
 ---
 
@@ -47,7 +47,7 @@ Currently diving deep into **Python** development with an emphasis on backend au
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OlexiyOdarchuk&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlexiyOdarchuk&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iShawyha&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28All+Time%29">
 </p>
 
 ---
