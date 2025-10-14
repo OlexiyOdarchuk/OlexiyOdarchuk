@@ -8,7 +8,8 @@
 ---
 
 ### 👨‍💻 About Me
-
+- <img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/iShawyha/interval:today&label=Coding%20Activity%20-%20Today&color=blue">
+- <img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/iShawyha/interval:30_days&label=Coding%20Activity%20-%20Last%2030%20Days&color=purple">
 - 🧑‍🎓 Student at [IT College of Lviv Polytechnic](https://itcollege.lviv.ua/)
 - 🤖 Creator of [AbitAssistant_Bot](https://github.com/OlexiyOdarchuk/Competition_Check_Telegram_bot)
 - 🐧 Daily Linux user (`I use Arch btw`)
