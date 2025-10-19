@@ -47,8 +47,11 @@ Right now, I'm focusing on **C++** for college, but in the future, I'll switch t
 ### 📊 Coding Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OlexiyOdarchuk&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=iShawyha&api_domain=wakapi.dev&bg_color=16161E&title_color=82AAFF&icon_color=82AAFF&text_color=ECEFF4&line_color=89DDFF&custom_title=Wakapi.dev+Stats+%28All+Time%29" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OlexiyOdarchuk&show_icons=true&theme=tokyonight" />  
+</p>
+
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iShawyha&api_domain=wakapi.dev&bg_color=16161E&title_color=82AAFF&icon_color=82AAFF&text_color=ECEFF4&line_color=89DDFF&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact"" />  
 </p>
 
 ---
