@@ -31,15 +31,15 @@ Right now, I'm focusing on **C++** for college, but in the future, I'll switch t
 - `asyncio` — understanding asynchronous programming in Python
 
 🔹 **Currently learning:**  
-- `C++` — currently studying it in college  
+- `Go` — currently learn for instrument expansion
 
 🔹 **Next on the roadmap:**  
+- `Svelte` - front-end development
 - `Java` — planned for upcoming college semesters  
-- `Rust` — planning to rewrite my bot in Rust to improve performance and reduce hardware load
 
 🔹 **Everyday tools:**  
 - `Arch Linux` as my main development OS  
-- `VSCodium` Code editor
+- `VSCode` Code editor
 - `Zed` Code editor
 
 ---
