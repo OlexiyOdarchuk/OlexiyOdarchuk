@@ -21,9 +21,10 @@
 ### 🧠 What I'm Learning and Using
 
 🔹 **Main Focus:**  
-Right now, I'm focusing on **C++** for college, but in the future, I'll switch to another language.
+Right now, I'm focusing on **Go** and **Svelte**
 
 🔹 **Confident with:**  
+- `C++` - studied this in college 
 - `Python` — my primary language  
 - `aiogram` — for building Telegram bots  
 - `SQLAlchemy` — for working with databases in Python  
@@ -32,9 +33,9 @@ Right now, I'm focusing on **C++** for college, but in the future, I'll switch t
 
 🔹 **Currently learning:**  
 - `Go` — currently learn for instrument expansion
+- `Svelte` - front-end development
 
 🔹 **Next on the roadmap:**  
-- `Svelte` - front-end development
 - `Java` — planned for upcoming college semesters  
 
 🔹 **Everyday tools:**  
