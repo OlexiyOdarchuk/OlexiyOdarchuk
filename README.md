@@ -21,7 +21,7 @@
 ### 🧠 What I'm Learning and Using
 
 🔹 **Main Focus:**  
-Right now, I'm focusing on **Go** and **Svelte**
+Right now, I'm focusing on **Go** and **Svelte (TypeScript)**
 
 🔹 **Confident with:**  
 - `C++` - studied this in college 
