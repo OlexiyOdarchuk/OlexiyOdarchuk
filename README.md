@@ -2,7 +2,7 @@
 <h3 align="center">aka iShawyha | Programming enthusiast & future developer from Ukraine 🇺🇦</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ffcc&center=true&vCenter=true&lines=Dev+in+Progress;Building+Telegram+Bots;Exploring+Linux+and+Automation;Loves+Folk+Dance+%F0%9F%8E%89" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ffcc&center=true&vCenter=true&lines=Golang+Engineer;Dev+in+Progress;Building+Telegram+Bots;Exploring+Linux+and+Automation;Loves+Folk+Dance+%F0%9F%8E%89" />
 </p>
 
 ---
@@ -24,7 +24,6 @@
 Right now, I'm focusing on **Go** and **Svelte (TypeScript)**
 
 🔹 **Confident with:**  
-- `C++` - studied this in college 
 - `Python` — my primary language  
 - `aiogram` — for building Telegram bots  
 - `SQLAlchemy` — for working with databases in Python  
@@ -34,9 +33,6 @@ Right now, I'm focusing on **Go** and **Svelte (TypeScript)**
 🔹 **Currently learning:**  
 - `Go` — currently learn for instrument expansion
 - `Svelte` - front-end development
-
-🔹 **Next on the roadmap:**  
-- `Java` — planned for upcoming college semesters  
 
 🔹 **Everyday tools:**  
 - `Arch Linux` as my main development OS  
