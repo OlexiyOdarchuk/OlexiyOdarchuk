@@ -56,7 +56,7 @@ Right now, I'm focusing on **Go** and **Svelte (TypeScript)**
 ### 📫 Contact me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NeShawyha)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaywhaf@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@ishawyha.dev)
 
 </details>
 
